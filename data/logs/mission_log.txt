@@ -1,0 +1,248 @@
+[2025-09-14 00:39:40 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 00:39:42 UTC] [INFO] [SYSTEM] AI_ENGINE status: SHUTDOWN - Clean shutdown completed
+[2025-09-14 00:40:10 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 00:40:10 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 00:40:12 UTC] [INFO] [SYSTEM] AI_ENGINE status: SHUTDOWN - Clean shutdown completed
+[2025-09-14 00:41:18 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 00:41:18 UTC] [INFO] [AI_INTERACTION] Query: system status... | Intent: status
+[2025-09-14 00:41:21 UTC] [INFO] [SYSTEM] AI_ENGINE status: SHUTDOWN - Clean shutdown completed
+[2025-09-14 01:27:04 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:27:18 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-14 01:27:27 UTC] [INFO] [AI_INTERACTION] Query: earth... | Intent: unknown
+[2025-09-14 01:27:56 UTC] [INFO] [AI_INTERACTION] Query: what is a=b... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the delta-v required for a Hohmann trans... | Intent: calculate
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: What is the Schwarzschild radius of a black hole w... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the orbital velocity needed to maintain ... | Intent: calculate
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Explain the cosmic microwave background and its si... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: What are the characteristics of the TRAPPIST-1 exo... | Intent: status
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Describe the process of stellar nucleosynthesis in... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the escape velocity from the surface of ... | Intent: calculate
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: What is the time dilation effect for an astronaut ... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the tidal force gradient near a neutron ... | Intent: calculate
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the radiation dose an astronaut receives... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: What are the physiological effects of microgravity... | Intent: unknown
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the structural stress on the ISS during ... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: What are the thermal management challenges for spa... | Intent: knowledge
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: What biosignatures would indicate life on exoplane... | Intent: unknown
+[2025-09-14 01:28:19 UTC] [INFO] [AI_INTERACTION] Query: Calculate the Drake equation parameters for our ga... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Hey, what's the deal with Mars?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Can you tell me about black holes?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: I'm curious about the ISS... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What do you know about Jupiter's moons?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: How fast does light travel?... | Intent: calculate
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's the distance to the nearest star?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: How big is our galaxy?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Why is space cold?... | Intent: unknown
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: I need to know the escape velocity from Earth... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Can you figure out how much I would weigh on Mars?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's the orbital speed of the ISS?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: How long would it take to get to Mars?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What is a black hole and how do we detect them?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Tell me about exoplanets and which ones might have... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Explain dark matter and why it's important... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What are the challenges of getting to Mars?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Show me Einstein's mass-energy equation... | Intent: equation
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's Newton's law of gravitation?... | Intent: equation
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: I need the rocket equation... | Intent: equation
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Can you give me the formula for kinetic energy?... | Intent: equation
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's up with Saturn's rings?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: How come we can't see black holes?... | Intent: unknown
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Why don't we fall into the sun?... | Intent: unknown
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What makes stars shine?... | Intent: unknown
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Calculate the Schwarzschild radius of a 10 solar m... | Intent: calculate
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's the delta-v for a Hohmann transfer to Mars?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: How much radiation exposure during a Mars mission?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's the tidal force near a neutron star?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Which planet is bigger, Jupiter or Saturn?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What's the difference between a star and a planet?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: How does the ISS compare to other space stations?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Which is faster, Voyager 1 or New Horizons?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What would happen if Earth stopped rotating?... | Intent: knowledge
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Could we live on Europa?... | Intent: unknown
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: What if we could travel at light speed?... | Intent: unknown
+[2025-09-14 01:32:53 UTC] [INFO] [AI_INTERACTION] Query: Is time travel possible near black holes?... | Intent: unknown
+[2025-09-14 01:38:05 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:38:23 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-14 01:38:37 UTC] [INFO] [AI_INTERACTION] Query: what is daltons theory... | Intent: knowledge
+[2025-09-14 01:47:55 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:48:14 UTC] [INFO] [AI_INTERACTION] Query: what is the density of mars... | Intent: knowledge
+[2025-09-14 01:48:20 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:48:20 UTC] [INFO] [AI_INTERACTION] Query: What is the distance to Mars?... | Intent: calculate
+[2025-09-14 01:48:49 UTC] [INFO] [AI_INTERACTION] Query: shut down... | Intent: unknown
+[2025-09-14 01:50:25 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: knowledge
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Calculate the escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: What is the orbital period of the ISS?... | Intent: calculate
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: What's the distance between Earth and Mars right n... | Intent: knowledge
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: How do black holes form?... | Intent: unknown
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Explain orbital mechanics... | Intent: knowledge
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Hey, can you help me understand gravity?... | Intent: emergency
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: I'm curious about space missions... | Intent: unknown
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: What makes rockets work?... | Intent: unknown
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: asdf random text... | Intent: unknown
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Calculate something... | Intent: unknown
+[2025-09-14 01:50:25 UTC] [INFO] [AI_INTERACTION] Query: Tell me... | Intent: unknown
+[2025-09-14 01:51:55 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: knowledge
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Calculate the escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: What is the orbital period of the ISS?... | Intent: calculate
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: What's the distance between Earth and Mars right n... | Intent: knowledge
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: How do black holes form?... | Intent: unknown
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Explain orbital mechanics... | Intent: knowledge
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Hey, can you help me understand gravity?... | Intent: emergency
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: I'm curious about space missions... | Intent: unknown
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: What makes rockets work?... | Intent: unknown
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: asdf random text... | Intent: unknown
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Calculate something... | Intent: unknown
+[2025-09-14 01:51:55 UTC] [INFO] [AI_INTERACTION] Query: Tell me... | Intent: unknown
+[2025-09-14 01:52:18 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: knowledge
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Calculate the escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: What is the orbital period of the ISS?... | Intent: calculate
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: What's the distance between Earth and Mars right n... | Intent: knowledge
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: How do black holes form?... | Intent: unknown
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Explain orbital mechanics... | Intent: knowledge
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Hey, can you help me understand gravity?... | Intent: emergency
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: I'm curious about space missions... | Intent: unknown
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: What makes rockets work?... | Intent: unknown
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: asdf random text... | Intent: unknown
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Calculate something... | Intent: unknown
+[2025-09-14 01:52:18 UTC] [INFO] [AI_INTERACTION] Query: Tell me... | Intent: unknown
+[2025-09-14 01:52:25 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: knowledge
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Calculate the escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: What is the orbital period of the ISS?... | Intent: calculate
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: What's the distance between Earth and Mars right n... | Intent: knowledge
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: How do black holes form?... | Intent: unknown
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Explain orbital mechanics... | Intent: knowledge
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Hey, can you help me understand gravity?... | Intent: emergency
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: I'm curious about space missions... | Intent: unknown
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: What makes rockets work?... | Intent: unknown
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: asdf random text... | Intent: unknown
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Calculate something... | Intent: unknown
+[2025-09-14 01:52:25 UTC] [INFO] [AI_INTERACTION] Query: Tell me... | Intent: unknown
+[2025-09-14 01:54:10 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: calculate
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Calculate the escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: What is the orbital period of the ISS?... | Intent: calculate
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: What's the distance between Earth and Mars right n... | Intent: knowledge
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: How do black holes form?... | Intent: unknown
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Explain orbital mechanics... | Intent: knowledge
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Hey, can you help me understand gravity?... | Intent: emergency
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: I'm curious about space missions... | Intent: unknown
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: What makes rockets work?... | Intent: unknown
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: asdf random text... | Intent: unknown
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Calculate something... | Intent: calculate
+[2025-09-14 01:54:10 UTC] [INFO] [AI_INTERACTION] Query: Tell me... | Intent: knowledge
+[2025-09-14 01:54:32 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:54:32 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:54:32 UTC] [INFO] [AI_INTERACTION] Query: Calculate escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:54:32 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:54:32 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:54:32 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: calculate
+[2025-09-14 01:56:44 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-14 01:56:44 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-14 01:56:44 UTC] [INFO] [AI_INTERACTION] Query: Calculate escape velocity of Earth... | Intent: calculate
+[2025-09-14 01:56:44 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the Moon... | Intent: knowledge
+[2025-09-14 01:56:44 UTC] [INFO] [AI_INTERACTION] Query: Convert 100 km to miles... | Intent: unit_conversion
+[2025-09-14 01:56:44 UTC] [INFO] [AI_INTERACTION] Query: How far is Jupiter?... | Intent: calculate
+[2025-09-15 10:55:25 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 10:56:00 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: Tell me about Jupiter... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: How big is the sun?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What is the distance to Mars?... | Intent: calculate
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: Explain black holes... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What is gravity?... | Intent: calculate
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: How does a rocket work?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What is the ISS?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the moon... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What are exoplanets?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: How far is Andromeda galaxy?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What is dark matter?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: Explain the Big Bang... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: What is a neutron star?... | Intent: knowledge
+[2025-09-15 11:22:22 UTC] [INFO] [AI_INTERACTION] Query: How hot is Venus?... | Intent: knowledge
+[2025-09-15 11:25:55 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:26:10 UTC] [INFO] [AI_INTERACTION] Query: how hot is venus?... | Intent: knowledge
+[2025-09-15 11:29:17 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What is Mars?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: Tell me about Jupiter... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: How big is the sun?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What is the distance to Mars?... | Intent: calculate
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: Explain black holes... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What is gravity?... | Intent: calculate
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: How does a rocket work?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What is the ISS?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: Tell me about the moon... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What are exoplanets?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: How far is Andromeda galaxy?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What is dark matter?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: Explain the Big Bang... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: What is a neutron star?... | Intent: knowledge
+[2025-09-15 11:29:18 UTC] [INFO] [AI_INTERACTION] Query: How hot is Venus?... | Intent: knowledge
+[2025-09-15 11:29:56 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:30:09 UTC] [INFO] [AI_INTERACTION] Query: how hot is sun?... | Intent: knowledge
+[2025-09-15 11:30:43 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:30:43 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-15 11:33:32 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:34:43 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:35:23 UTC] [INFO] [AI_INTERACTION] Query: how hot is sun?... | Intent: knowledge
+[2025-09-15 11:35:46 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:35:49 UTC] [INFO] [AI_INTERACTION] Query: how hot is Venus... | Intent: knowledge
+[2025-09-15 11:35:57 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-15 11:37:08 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:37:14 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-15 11:37:36 UTC] [INFO] [AI_INTERACTION] Query: what is space... | Intent: knowledge
+[2025-09-15 11:37:49 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-15 11:37:55 UTC] [INFO] [AI_INTERACTION] Query: what is space?... | Intent: knowledge
+[2025-09-15 11:38:16 UTC] [INFO] [AI_INTERACTION] Query: how hot is venus?... | Intent: knowledge
+[2025-09-16 01:22:25 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-16 01:22:33 UTC] [INFO] [AI_INTERACTION] Query: what are the stars... | Intent: knowledge
+[2025-09-16 01:22:53 UTC] [INFO] [AI_INTERACTION] Query: what is earth... | Intent: knowledge
+[2025-09-16 01:23:22 UTC] [INFO] [AI_INTERACTION] Query: what is venus... | Intent: knowledge
+[2025-09-16 01:23:35 UTC] [INFO] [AI_INTERACTION] Query: what is 2+2... | Intent: knowledge
+[2025-09-16 01:23:58 UTC] [INFO] [AI_INTERACTION] Query: what is deltons rule... | Intent: knowledge
+[2025-09-16 01:24:19 UTC] [INFO] [AI_INTERACTION] Query: what is the distance of earth to sun... | Intent: calculate
+[2025-09-16 01:25:16 UTC] [INFO] [AI_INTERACTION] Query: what is the distance of earth from the sun... | Intent: calculate
+[2025-09-16 10:18:21 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-16 10:18:31 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-16 10:19:00 UTC] [INFO] [AI_INTERACTION] Query: how hot is sun?... | Intent: knowledge
+[2025-09-16 12:59:58 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-16 13:00:08 UTC] [INFO] [AI_INTERACTION] Query: what is earth?... | Intent: knowledge
+[2025-09-17 10:33:25 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-17 10:33:38 UTC] [INFO] [AI_INTERACTION] Query: what is earth?... | Intent: knowledge
+[2025-09-17 15:30:57 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-09-17 15:31:17 UTC] [INFO] [AI_INTERACTION] Query: what is earth?... | Intent: knowledge
+[2025-09-17 15:32:29 UTC] [INFO] [AI_INTERACTION] Query: diameter of earth... | Intent: knowledge
+[2025-09-17 15:32:42 UTC] [INFO] [AI_INTERACTION] Query: what is diameter of earth?... | Intent: knowledge
+[2025-11-12 10:41:52 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-11-12 10:42:41 UTC] [INFO] [AI_INTERACTION] Query: what is earth?... | Intent: knowledge
+[2025-11-12 10:44:37 UTC] [INFO] [AI_INTERACTION] Query: what is jupiter?... | Intent: knowledge
+[2025-11-12 10:45:09 UTC] [INFO] [AI_INTERACTION] Query: what is the chandrayan... | Intent: knowledge
+[2025-11-12 10:45:22 UTC] [INFO] [AI_INTERACTION] Query: what is the chandrayan?... | Intent: knowledge
+[2025-11-12 10:45:45 UTC] [INFO] [AI_INTERACTION] Query: what is mars... | Intent: knowledge
+[2025-11-26 15:46:49 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-11-26 15:46:59 UTC] [INFO] [AI_INTERACTION] Query: what is earth?... | Intent: knowledge
+[2025-11-26 15:51:25 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-11-26 15:52:24 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-11-26 15:53:04 UTC] [INFO] [SYSTEM] AI_ENGINE status: INITIALIZED - All components ready
+[2025-11-26 15:53:10 UTC] [INFO] [AI_INTERACTION] Query: what is earth?... | Intent: knowledge

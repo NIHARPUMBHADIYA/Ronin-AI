@@ -1,0 +1,10 @@
+2025-09-16 10:18:21,586 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-09-16 10:18:30,986 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-09-16 12:59:58,117 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-09-17 10:33:25,639 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-09-17 15:30:57,579 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-11-12 10:41:52,234 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-11-26 15:46:49,773 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-11-26 15:51:25,319 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-11-26 15:52:24,228 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given
+2025-11-26 15:53:04,491 - AI_Engine - ERROR - ai_engine.py:78 - Failed to initialize enhanced knowledge modules: GalaxyDatabase.__init__() takes 2 positional arguments but 3 were given

@@ -1,0 +1,122 @@
+# Space AI Assistant Configuration File
+# This file contains all configuration settings for the SAI system
+
+# Interface Configuration
+enable_voice: true
+enable_text: true
+enable_gui: true
+
+# Voice Interface Settings
+voice:
+  input_model: "whisper"  # Options: whisper, vosk
+  output_engine: "pyttsx3"  # Options: pyttsx3, coqui
+  wake_word: "hey sai"
+  voice_rate: 150  # Words per minute
+  voice_volume: 0.8  # 0.0 to 1.0
+  language: "en-US"
+  continuous_listening: false
+  noise_threshold: 0.5
+
+# Natural Language Understanding Settings
+nlu:
+  model: "distilbert"
+  confidence_threshold: 0.4
+  context_window: 5
+  max_query_length: 500
+  enable_context_memory: true
+
+# Knowledge Base Settings
+knowledge:
+  database_path: "data/knowledge/space_knowledge.db"
+  update_interval: 3600  # seconds
+  cache_size: 1000  # number of cached queries
+  enable_fact_checking: true
+
+# Mission Support Settings
+mission:
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  max_log_size: "100MB"
+  backup_interval: 1800  # seconds
+  emergency_mode: false
+  auto_backup: true
+  reminder_check_interval: 30  # seconds
+
+# System Performance Settings
+system:
+  max_memory_usage: "2GB"
+  cpu_threads: 4
+  offline_mode: true
+  security_level: "high"  # low, medium, high
+  enable_telemetry: false
+  debug_mode: false
+
+# File Paths
+paths:
+  data_dir: "data"
+  logs_dir: "data/logs"
+  models_dir: "data/models"
+  knowledge_dir: "data/knowledge"
+  backup_dir: "data/backups"
+  temp_dir: "data/temp"
+
+# Audio Settings
+audio:
+  sample_rate: 16000
+  channels: 1
+  chunk_size: 1024
+  input_device_index: null  # null for default
+  output_device_index: null  # null for default
+
+# Display Settings
+display:
+  theme: "dark"  # light, dark, auto
+  font_size: 12
+  show_timestamps: true
+  max_chat_history: 1000
+  enable_animations: true
+
+# Security Settings
+security:
+  enable_encryption: true
+  session_timeout: 3600  # seconds
+  max_failed_attempts: 3
+  enable_audit_log: true
+  restrict_file_access: true
+
+# Emergency System Settings
+emergency:
+  auto_activate_on_keywords: true
+  emergency_contacts:
+    - "Mission Control Houston"
+    - "Flight Surgeon"
+    - "ISS Commander"
+  alert_sound: true
+  visual_alerts: true
+  emergency_backup_power: true
+
+# Calculation Engine Settings
+calculator:
+  precision: 6  # decimal places
+  scientific_notation_threshold: 1000000
+  enable_unit_conversion: true
+  default_units:
+    distance: "km"
+    mass: "kg"
+    time: "s"
+    temperature: "K"
+
+# Backup and Recovery Settings
+backup:
+  auto_backup: true
+  backup_frequency: "daily"  # hourly, daily, weekly
+  max_backups: 30
+  compress_backups: true
+  backup_encryption: true
+
+# Development and Testing Settings
+development:
+  enable_debug_logging: false
+  test_mode: false
+  mock_voice_input: false
+  simulation_mode: false
+  performance_monitoring: true
