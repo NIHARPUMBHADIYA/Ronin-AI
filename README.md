@@ -12,7 +12,7 @@
 *Talk to space like never before*
 ---
 ---
-*This Project Has Won The NASA Space App Challenge Hackathon*
+*This Project Has Won The NASA Space App Challenge Hackathon At The Regional Level*
 ---
 
 ## 🌟 **What Makes RONIN Special?**
